@@ -1,8 +1,8 @@
-# Dev Seeker | Passion for Innovation 🚀💻
+# Hello! 👋 I'm Elouan Rey,
 
 **`Student in Software Engineering`**
 
-"Hello! 👋 I'm Elouan Rey, an 18-year-old aspiring software engineer currently pursuing a degree in computer science engineering. Eager to apply my skills in real-world scenarios, I'm actively seeking opportunities with forward-thinking companies to deepen my learning through practical experiences. Let's code and innovate together! 💻🚀
+"I am 18-year-old aspiring software engineer currently pursuing a degree in computer science engineering. Eager to apply my skills in real-world scenarios, I'm actively seeking opportunities with forward-thinking companies to deepen my learning through practical experiences. Let's code and innovate together! 💻🚀
 
 ### 🧰 Languages and Tools
 
@@ -16,6 +16,7 @@
 <img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="VSC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="VSC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 &nbsp;
 
