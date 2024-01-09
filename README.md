@@ -1,6 +1,6 @@
 # Hi 👋, I'm Elouan
 
-## **Student in Software Engineering <img src="https://em-content.zobj.net/source/apple/354/flag-france_1f1eb-1f1f7.png" width="30" height="30" style="vertical-align: middle;">**
+## **Student in Software Engineering** <p align="left"> <img src="https://em-content.zobj.net/source/apple/354/flag-france_1f1eb-1f1f7.png" width="30" height="30" style="vertical-align: middle;">
 
 I am 18-year-old aspiring software engineer currently pursuing a degree in computer science engineering. Eager to apply my skills in real-world scenarios, I'm actively seeking opportunities with forward-thinking companies to deepen my learning through practical experiences. Let's code and innovate together! 💻🚀
 
@@ -18,8 +18,10 @@ src="https://img.shields.io/github/followers/sweaat?logo=github&style=for-the-ba
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sweaat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/elouan-rey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+</a> <a href="https://www.linkedin.com/in/elouan-rey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sweaat"><img src="https://github-readme-stats.vercel.app/api?username=sweaat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sweaat's GitHub stats" /></a>
 
 <a href="https://github.com/sweaat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sweaat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
