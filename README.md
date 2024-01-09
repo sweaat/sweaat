@@ -1,9 +1,9 @@
 # Hi 👋, I'm Elouan
 
-## **Student in Software Engineering** 🇫🇷
+## **Student in Software Engineering** ⚜️
 I am 18-year-old aspiring software engineer currently pursuing a degree in computer science engineering. Eager to apply my skills in real-world scenarios, I'm actively seeking opportunities with forward-thinking companies to deepen my learning through practical experiences. Let's code and innovate together! 💻🚀
 
-* ✉️  You can contact me at [elouanr@yahoo.fr](mailto:elouanr@yahoo.fr)
+* 📧  You can contact me at [elouanr@yahoo.fr](mailto:elouanr@yahoo.fr)
 * 🚀  I'm currently working on [Viewz](http://github.com/sweaat/Viewz)
 * 🧠  I'm learning C# and PHP
 
