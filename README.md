@@ -1,8 +1,10 @@
-# 🎧 Elouan Rey
+# Dev Seeker | Passion for Innovation 🚀💻
 
-**`Developer`**
+**`Student in Software Engineering`**
 
-...
+Certainly! Here's a GitHub description for you:
+
+"Hello! 👋 I'm Elouan Rey, an 18-year-old aspiring software engineer currently pursuing a degree in computer science engineering. Eager to apply my skills in real-world scenarios, I'm actively seeking opportunities with forward-thinking companies to deepen my learning through practical experiences. Let's code and innovate together! 💻🚀
 
 ### 🧰 Languages and Tools
 
