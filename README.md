@@ -1,6 +1,6 @@
 # Hi 👋, I'm Elouan
 
-## **Student in Software Engineering** <img src="https://em-content.zobj.net/source/apple/271/flag-france_1f1eb-1f1f7.png" width="30">
+## **Student in Software Engineering** <img src="https://em-content.zobj.net/source/apple/271/flag-france_1f1eb-1f1f7.png" width="30" style="display:flex; margin-top:20px;">
 
 I am 18-year-old aspiring software engineer currently pursuing a degree in computer science engineering. Eager to apply my skills in real-world scenarios, I'm actively seeking opportunities with forward-thinking companies to deepen my learning through practical experiences. Let's code and innovate together! 💻🚀
 
