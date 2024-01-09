@@ -19,6 +19,6 @@
 
 &nbsp;
 
-### 📬**Contact :**
+### 📬 **Contact :**
 - 📧 Email: [elouanr@yahoo.fr](mailto:elouanr@yahoo.fr)
 - 🔗 LinkedIn: [Elouan Rey](https://www.linkedin.com/in/elouan-rey)
