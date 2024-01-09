@@ -1,4 +1,4 @@
-# Hello! 👋 I'm Elouan Rey,
+# Hi! 👋, I'm Elouan,
 
 **`Student in Software Engineering`**
 
