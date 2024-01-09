@@ -1,6 +1,6 @@
 # Hi 👋, I'm Elouan
 
-## **Student in Software Engineering <img src="https://em-content.zobj.net/source/apple/354/flag-france_1f1eb-1f1f7.png width=40px"/>**
+## **Student in Software Engineering ![Flag](https://em-content.zobj.net/source/apple/354/flag-france_1f1eb-1f1f7.png)**
 
 I am 18-year-old aspiring software engineer currently pursuing a degree in computer science engineering. Eager to apply my skills in real-world scenarios, I'm actively seeking opportunities with forward-thinking companies to deepen my learning through practical experiences. Let's code and innovate together! 💻🚀
 
@@ -19,7 +19,6 @@ src="https://img.shields.io/github/followers/sweaat?logo=github&style=for-the-ba
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/sweaat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/elouan-rey" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-### Badges
 
 <b>My GitHub Stats</b>
 
