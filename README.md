@@ -17,7 +17,6 @@
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="VSC" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-
-# Contact 📬:
-- 📧 Email: [elouanr@yahoo.fr]
-- 🔗 LinkedIn: [https://www.linkedin.com/in/elouan-rey]
+**Contact 📬:**
+- 📧 Email: [elouanr@yahoo.fr](mailto:elouanr@yahoo.fr)
+- 🔗 LinkedIn: [Elouan Rey](https://www.linkedin.com/in/elouan-rey)
